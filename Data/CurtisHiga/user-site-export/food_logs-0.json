@@ -1,0 +1,21 @@
+[{
+  "logId" : 16525227575,
+  "loggedFood" : {
+    "foodId" : 8320,
+    "locale" : "en_US",
+    "name" : "Bagel, Plain Bagel",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [12,226,180,147,389],
+    "calories" : 260,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 12,
+      "name" : "bagel",
+      "plural" : "bagels"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-01-05",
+  "favorite" : false
+}]
