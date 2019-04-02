@@ -2,4 +2,4 @@
 ./MyFitbitData.zip
 ./Data/CurtisHiga/user-profile
 ./EDA/plotly_credentials.py
-./EDA/__pycache__/
+./EDA/__pycache__/*
