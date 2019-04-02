@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 ./MyFitbitData.zip
 ./Data/CurtisHiga/user-profile
-./EDA/plotly_credentials.py
-./EDA/__pycache__/*
+EDA/plotly_credentials.py
+
+EDA/__pycache__/plotly_credentials.cpython-36.pyc
