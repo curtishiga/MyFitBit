@@ -6,18 +6,18 @@ For a few years now, I would occasionally wake up with a migraines which made it
 
 This project takes data pulled from my Fitbit device to see if there's any difference in my heart rate data (or sleep data) from when I was sleeping with two pillows and just one. It's broken up as follows:
 
-- [Data]{https://github.com/curtishiga/MyFitBit/tree/master/Data}
+- [Data](https://github.com/curtishiga/MyFitBit/tree/master/Data)
   - CurtisHiga/user-site-export
     - This is the raw data files pulled from my Fitbit
   - heartrate.csv
     - This contains my heartrate data for my sleep logs
   - sleep_cleaned.csv
     - This file contains all sleep data recorded by my Fitbit
-- [Data_Wrangling]{https://github.com/curtishiga/MyFitBit/tree/master/Data_Wrangling}
-  - [Data_Wrangling.ipynb]{https://github.com/curtishiga/MyFitBit/blob/master/Data_Wrangling/Data_Wrangling.ipynb}
+- [Data_Wrangling](https://github.com/curtishiga/MyFitBit/tree/master/Data_Wrangling)
+  - [Data_Wrangling.ipynb](https://github.com/curtishiga/MyFitBit/blob/master/Data_Wrangling/Data_Wrangling.ipynb)
     - Notebook to explore, clean, and consolidate data into single CSV files
-- [EDA]{https://github.com/curtishiga/MyFitBit/tree/master/EDA}
-  - [EDA.ipynb]{https://github.com/curtishiga/MyFitBit/blob/master/EDA/EDA.ipynb}
+- [EDA](https://github.com/curtishiga/MyFitBit/tree/master/EDA)
+  - [EDA.ipynb](https://github.com/curtishiga/MyFitBit/blob/master/EDA/EDA.ipynb)
     - Notebook containing analysis and plots of data
   - temp-plot.html
     - Temporary plot created by plotly
